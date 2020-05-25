@@ -1,6 +1,6 @@
 # Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-The script called *run_analysis.R* downloads data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and prepares required tidy datasets. The script works as following:
+The script called *run_analysis.R* downloads data from [webpage](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and prepares required tidy datasets. The script works as following:
 
 1. Clear workspace.
 2. Set data set path (*dataset* folder contains the downloaded and unzipped raw data).
